@@ -1,0 +1,31 @@
+@media screen and (max-width:640px){
+
+
+    .contenedor {
+     
+        flex-wrap: wrap;
+
+       
+    }
+    .contenedor__subtitulo {
+        font-size: 2rem;}
+    .contenedor__parrafo {
+        font-size: 1.2rem;
+    }
+    .contenedor__boton {
+        font-size: 1.2rem;
+    
+    }
+    .form__parrafo {
+        font-size: 1.2rem;
+    }
+    .form__input {
+        font-size:1.2rem;
+    }
+    
+    body{
+        background-position: left top;
+        background-size: auto ;
+    }
+  
+}

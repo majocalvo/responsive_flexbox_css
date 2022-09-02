@@ -1,0 +1,16 @@
+@media screen and (min-width: 640px) and (max-width: 1280px) {
+    .contenedor__subtitulo {
+        font-size: 3rem;}
+    .contenedor__parrafo {
+        font-size: 1.5rem;
+    }
+    .contenedor__boton {
+        font-size: 1.2rem;
+    
+    }
+    .form__parrafo {
+        font-size: 1.4rem;
+    }
+    .form__input {
+        font-size:1.2rem;
+}
